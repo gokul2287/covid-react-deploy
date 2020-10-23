@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid-react-deploy/static/css/main.48d98ec1.chunk.css",
+    "main.js": "/covid-react-deploy/static/js/main.f8a2e2e3.chunk.js",
+    "main.js.map": "/covid-react-deploy/static/js/main.f8a2e2e3.chunk.js.map",
+    "runtime-main.js": "/covid-react-deploy/static/js/runtime-main.ce8627cb.js",
+    "runtime-main.js.map": "/covid-react-deploy/static/js/runtime-main.ce8627cb.js.map",
+    "static/css/2.067ccc96.chunk.css": "/covid-react-deploy/static/css/2.067ccc96.chunk.css",
+    "static/js/2.91fb1e41.chunk.js": "/covid-react-deploy/static/js/2.91fb1e41.chunk.js",
+    "static/js/2.91fb1e41.chunk.js.map": "/covid-react-deploy/static/js/2.91fb1e41.chunk.js.map",
+    "index.html": "/covid-react-deploy/index.html",
+    "precache-manifest.0049bbfef5b1168a49e327a4e08b033e.js": "/covid-react-deploy/precache-manifest.0049bbfef5b1168a49e327a4e08b033e.js",
+    "service-worker.js": "/covid-react-deploy/service-worker.js",
+    "static/css/2.067ccc96.chunk.css.map": "/covid-react-deploy/static/css/2.067ccc96.chunk.css.map",
+    "static/css/main.48d98ec1.chunk.css.map": "/covid-react-deploy/static/css/main.48d98ec1.chunk.css.map",
+    "static/js/2.91fb1e41.chunk.js.LICENSE.txt": "/covid-react-deploy/static/js/2.91fb1e41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce8627cb.js",
+    "static/css/2.067ccc96.chunk.css",
+    "static/js/2.91fb1e41.chunk.js",
+    "static/css/main.48d98ec1.chunk.css",
+    "static/js/main.f8a2e2e3.chunk.js"
+  ]
+}
