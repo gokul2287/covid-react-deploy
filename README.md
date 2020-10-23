@@ -1,4 +1,6 @@
 [![HitCount](http://hits.dwyl.io/gokul2287/covid-react-deploy.svg)](http://hits.dwyl.io/gokul2287/covid-react-deploy)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/gokul2287/covid-react-deploy)](https://github.com/gokul2287/covid-react-deploy)
+[![GitHub repo size](https://img.shields.io/github/repo-size/gokul2287/covid-react-deploy?color=ff69b4)](https://github.com/gokul2287/covid-react-deploy)
 
 # [COVID-19 Tracker](https://gokul2287.github.io/covid-react-deploy/)
 
@@ -6,8 +8,6 @@ This project developed as an assignment of coursera course [Front-End Web develo
 - It's shows the number of daily COVID cases based on the country selection with map and live cases in tabular format.
 - In map, you can click on any red circle that shows a pod with active cases, recovered cases, deaths till date for that country.
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/gokul2287/covid-react-deploy)](https://github.com/gokul2287/covid-react-deploy)
-[![GitHub repo size](https://img.shields.io/github/repo-size/gokul2287/covid-react-deploy?color=ff69b4)](https://github.com/gokul2287/covid-react-deploy)
 
 ## Technologies used 🛠️
 
