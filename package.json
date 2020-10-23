@@ -1,8 +1,8 @@
 {
-  "name": "covid-19-tracker",
+  "name": "covid-react-deploy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gokul2287.github.io/covid-tracker",
+  "homepage": "http://gokul2287.github.io/covid-react-deploy",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
